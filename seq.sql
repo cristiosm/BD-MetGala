@@ -1,0 +1,5 @@
+CREATE SEQUENCE seq
+START WITH 100
+INCREMENT BY 1;
+
+drop sequence seq;
